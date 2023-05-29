@@ -38,20 +38,20 @@ print(Norm_of_matrix)
 ## Output:
 ### 1-Norm of a Matrix
 
-![1 norm](https://github.com/Nandhinijaya/Norm-of-a-matrix/assets/121998147/355005a6-49c7-458a-8735-1a36f6eda04a)
+
+![1 norm](https://github.com/Nandhinijaya/Norm-of-a-matrix/assets/121998147/3b693302-a0d5-4e60-9aa1-a52594d92d7d)
 
 
 ### 2-Norm of a Matrix
 
 
-![2 norm](https://github.com/Nandhinijaya/Norm-of-a-matrix/assets/121998147/c4e66ce6-2c1d-4ca7-b089-73be949690d4)
-
-
+![2 norm](https://github.com/Nandhinijaya/Norm-of-a-matrix/assets/121998147/cedd6df5-c631-4036-b5c4-12b128c5907c)
 
 ### Infinity Norm of a Matrix
 
 
-![infinity norm](https://github.com/Nandhinijaya/Norm-of-a-matrix/assets/121998147/f656cb70-5000-45cc-825d-47bc47c7c439)
+![infinity norm](https://github.com/Nandhinijaya/Norm-of-a-matrix/assets/121998147/10a13267-e0ab-4112-81f1-d0efa4e2e83b)
+
 
 
 ## Result
